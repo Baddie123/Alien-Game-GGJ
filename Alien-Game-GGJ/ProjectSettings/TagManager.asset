@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Planet
+  - UI
+  - Obstacle
   layers:
   - Default
   - TransparentFX
